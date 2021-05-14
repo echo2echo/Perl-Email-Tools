@@ -19,6 +19,8 @@ Please write me if more functionality is needed.
 
 ## mail.pl
 
+You will need a working SMTP server and Perl installed for this script to run
+
 You may need to install MIME::Lite Perl module
 
 Install MIME::Lite Perl module...
