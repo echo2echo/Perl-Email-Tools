@@ -34,6 +34,6 @@ Or
 
 This script runs in the same folder as the unique_sorted_emails.txt file described above in the merge_purge_sort.pl instructions.
 
-To run the script...
+To run the script verify the file unique_sorted_emails.txt is referenced in mail.pl and is run in the same directory as the list.
 
-    $ mail.pl
+    $ ./mail.pl
