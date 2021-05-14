@@ -32,4 +32,4 @@ Or
 
     $ cpanm MIME::Lite
 
-This script runs in the same folder as the cat.txt file described above in the merge_purge_sort.pl instructions.
+This script runs in the same folder as the unique_sorted_emails.txt file described above in the merge_purge_sort.pl instructions.
