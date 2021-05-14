@@ -17,4 +17,10 @@ This script was written for line separated email address files with only the ema
 
 Please write me if more functionality is needed.
 
+## mail.pl
 
+You may need to install MIME::Lite Perl module
+Install MIME::Lite Perl module...
+        $ cpan -i MIME::Lite    
+Or
+        $ cpanm MIME::Lite
