@@ -1,6 +1,7 @@
 # Perl-Email-Tools
 
-File name: merge_purge_sort.pl
+## merge_purge_sort.pl
+
 Procedure and Script to merge email address files and purge duplicate records resulting in one sorted file with unique email addresses.
 
 Procedure and Usage is as follows...
