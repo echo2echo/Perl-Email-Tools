@@ -20,7 +20,10 @@ Please write me if more functionality is needed.
 ## mail.pl
 
 You may need to install MIME::Lite Perl module
+
 Install MIME::Lite Perl module...
-        $ cpan -i MIME::Lite    
+
+    $ cpan -i MIME::Lite    
 Or
-        $ cpanm MIME::Lite
+
+    $ cpanm MIME::Lite
