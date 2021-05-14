@@ -31,3 +31,5 @@ To Install MIME::Lite Perl module...
 Or
 
     $ cpanm MIME::Lite
+
+This script runs in the same folder as the cat.txt file described above in the merge_purge_sort.pl instructions.
