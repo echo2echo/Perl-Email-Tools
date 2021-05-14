@@ -21,7 +21,7 @@ Please write me if more functionality is needed.
 
 You will need a working SMTP server and Perl installed for this script to run
 
-Timing of the script says it can send ~ 10 emails per second on modest hardware 
+Timing of the script says it can send ~10 emails per second or ~36000 emails per hour on modest hardware 
 
 You may need to install MIME::Lite Perl module
 
