@@ -30,11 +30,8 @@ Enter email body text here between apostrophes.
 
 my $i = 0;
 
-# The file "emailList.txt" referenced below is a list of your line separated email addresses.
-# See  https://joelrader.net/cgi-bin/sort/pretty.pl... a merge, purge and sort procedure and script to remove duplicate email addresses and sort your address list(s).
-# This file only has email addresses, one per line, and has not been tested with the given name as part of the address
-# Write to me if you require more functionality - info[at]joelrader[dot]net
-open(FILE, "emailList.txt") || die "can't find file: $!\n";
+# unique_sorted_emails.txt is a line separated list of email addresses created by the merge_purge_sort.pl script in this repository
+open(FILE, "unique_sorted_emails.txt") || die "can't find file: $!\n";
 
 
 while (<FILE>) {
