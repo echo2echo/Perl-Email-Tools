@@ -4,8 +4,6 @@
 
 Procedure and Script to merge email address files and purge duplicate records resulting in one sorted file with unique email addresses.
 
-Procedure and Usage is as follows...
-
 Create a single concatenated file of all your email address files by running the cat command on your line separated email files...
 Merge address files and name the concatenated and redirected file "cat.txt" as shown below
     
