@@ -38,6 +38,6 @@ This script runs in the same folder as the unique_sorted_emails.txt file describ
 
 make changes to the test_example_file.txt file to test with your own email addresses.
  
-To run the script verify the file unique_sorted_emails.txt is referenced in mail.pl and is run in the same directory as the list.
+To run the script with your sorted and unique file verify the file unique_sorted_emails.txt is referenced in mail.pl and is run in the same directory as the list.
 
     $ ./mail.pl
