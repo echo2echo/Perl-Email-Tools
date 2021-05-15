@@ -31,7 +31,9 @@ Enter email body text here between apostrophes.
 my $i = 0;
 
 # unique_sorted_emails.txt is a line separated list of email addresses created by the merge_purge_sort.pl script in this repository
-open(FILE, "unique_sorted_emails.txt") || die "can't find file: $!\n";
+# Change file name directly below to "unique_sorted_emails.txt" once tested, proofread and critiqued. 
+# View the test_example_file.txt which is part of this repository to see the format of the address file and for use in testing your mailing
+open(FILE, "test_example_file.txt") || die "can't find file: $!\n";
 
 
 while (<FILE>) {
