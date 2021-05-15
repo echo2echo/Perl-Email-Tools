@@ -48,8 +48,8 @@ while (<FILE>) {
 
 	++$i;
 	
-	# If the record number is under 500, send an email else exit.
-	if ($i < 500)
+	# If the record number is under 1000, send an email else exit.
+	if ($i < 1000)
 	{
 		print $i . " ";
 		print $_;
