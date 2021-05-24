@@ -24,7 +24,7 @@ You will need a working SMTP server and Perl installed for this script to run
 
 Timing of this script clocked-in at sending over ~10 emails per second or the equivalent of ~36,000 emails per hour on modest hardware and network speeds.  Probably enough horsepower for mid size email lists.
 
-You may need to install MIME::Lite Perl module
+You may need to install the MIME::Lite Perl module
 
 To Install MIME::Lite Perl module...
 
