@@ -42,6 +42,10 @@ This script runs in the same folder as the unique_sorted_emails.txt file describ
 ### I do some test mailings with an address text file that has a few of my own email addresses before I run the script on the "big" list to check for any errors or text changes and to see if it looks good enough to send.  Once it looks good, replace the test file with the unique_sorted_emails.txt or your own production ready file
 
 Make changes to the test_example_file.txt file to test with your own email addresses.
+
+Grant permission to run mail.pl file
+
+    $ sudo chmod 755 mail.pl
  
 To run the script with your sorted and unique address file verify the file unique_sorted_emails.txt, or your production ready email list, is referenced in mail.pl and is run in the same directory as the list.
 
