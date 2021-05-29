@@ -10,6 +10,10 @@ Merge address files and name the concatenated and redirected file "cat.txt" as s
     
     $ cat emailfile1.txt emailfile2.txt emailfile3.txt > cat.txt 
 
+Grant permission to run script
+
+    $ sudo chmod 755 merge_purge_sort.pl
+
 Run the Perl script as follows to purge duplicate addresses and get a file of sorted and unique email addresses
     
     $ ./merge_purge_sort.pl > unique_sorted_emails.txt
