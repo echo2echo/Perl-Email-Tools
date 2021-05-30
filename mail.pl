@@ -8,7 +8,7 @@ use warnings;
 use strict;
 use diagnostics;
 
-# Install MIME::Lite Perl module...
+# You may need to install MIME::Lite Perl module...
 # Use $ cpan -i MIME::Lite    
 # Or $ cpanm MIME::Lite
 # Or $ sudo apt install libmime-lite-perl
