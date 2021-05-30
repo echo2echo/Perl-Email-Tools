@@ -10,7 +10,8 @@ use diagnostics;
 
 # Install MIME::Lite Perl module...
 # Use $ cpan -i MIME::Lite    
-# Or  $ cpanm MIME::Lite
+# Or $ cpanm MIME::Lite
+# Or $ sudo apt install libmime-lite-perl
 
 use MIME::Lite;
 
