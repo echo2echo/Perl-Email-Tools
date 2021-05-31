@@ -37,7 +37,7 @@ Or
 
     $ cpanm MIME::Lite
     
-Or if these don't work try apt install on Ubuntu Linux
+Or if these don't work try apt install on Ubuntu/Debian Linux
 
     $ sudo apt install libmime-lite-perl
 
