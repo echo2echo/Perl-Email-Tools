@@ -20,8 +20,6 @@ Run the Perl script as follows to purge duplicate addresses and get a file of so
 
 This script was written for line separated email address files with only the email address and not the person's name as part of each record.
 
-Please write me if more functionality is needed.
-
 ## mail.pl
 
 You will need a working SMTP server and Perl installed for this script to run
