@@ -41,7 +41,7 @@ Or if these don't work try apt install on Ubuntu/Debian Linux
 
 This script runs in the same folder as the unique_sorted_emails.txt file described above in the merge_purge_sort.pl instructions.
 
-### I do some test mailings with an address text file that has a few of my own email addresses before I run the script on the "big" list to check for any errors or text changes and to see if it looks good enough to send.  Once it looks good, replace the test file with the unique_sorted_emails.txt or your own production ready file
+### I do some test mailings with an address text file that has a few of my own email addresses before I run the script on the "big" list to check for any errors and to see if it looks good enough to send.  Once it looks good, replace the test file with the unique_sorted_emails.txt or your own production ready file
 
 Make changes to the test_example_file.txt file to test with your own email addresses.
 
