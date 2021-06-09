@@ -2,7 +2,7 @@
 
 ## merge_purge_sort.pl
 
-Procedure and Script to merge email address files and purge duplicate records resulting in one sorted file with unique email addresses.
+This is a procedure and script to merge email address files and purge duplicate records resulting in one sorted file with unique email addresses.
 
 Make sure your email list(s) have only one address per line with no given name, only email address and no blank lines. Do a visual inspection of your lists and see if they look ready for use.
 Next, create a single concatenated file of all your email address files by running the cat command on your line separated email files...
