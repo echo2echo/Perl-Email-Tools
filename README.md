@@ -14,7 +14,7 @@ Grant permission to run script
 
     $ sudo chmod 755 merge_purge_sort.pl
 
-Run the Perl script as follows to purge duplicate addresses and get a file of sorted and unique email addresses
+Run the Perl script as follows to purge duplicate addresses and get a redirected file of sorted and unique email addresses
     
     $ ./merge_purge_sort.pl > unique_sorted_emails.txt
 
