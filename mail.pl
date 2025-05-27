@@ -2,7 +2,7 @@
 
 # File Name: mail.pl 
 # Perl Script to Send Multiple Emails from List of Addresses
-# By Joel Rader  info[at]JoelRader[dot]net
+# By Joel Rader  echophotographic@gmail.com
 
 use warnings;
 use strict;
