@@ -2,7 +2,7 @@
 
 # File name: merge_purge_sort.pl
 # Procedure and Script to merge email address files and purge duplicate records resulting in one sorted file with unique email addresses.
-# By Joel Rader  info[at]joelrader[dot]net
+# By Joel Rader  echophotographic@gmail.com
 
 # Usage is as follows...
 
